@@ -10,3 +10,6 @@ dependencies:
 - name: http-python-test
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
+- name: node-test
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
